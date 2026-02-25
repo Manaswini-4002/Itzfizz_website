@@ -19,7 +19,6 @@ A modern, high-performance scroll animation project built with GSAP ScrollTrigge
 - **JavaScript (ES6+)**: Clean, modular code
 - **GSAP**: Industry-standard animation library
 - **ScrollTrigger**: Scroll-based animation plugin
-- **Vite**: Fast build tool and dev server
 
 ## Project Structure
 
@@ -28,7 +27,6 @@ project/
 ├── index.html          # Main HTML structure
 ├── style.css          # All styles and responsive design
 ├── main.js            # GSAP animations and interactions
-├── package.json       # Dependencies
 └── README.md          # Documentation
 ```
 
@@ -162,7 +160,6 @@ Inspired by premium creative agency websites and scroll-driven storytelling.
 
 Built with:
 - [GSAP](https://greensock.com/gsap/) - Animation library
-- [Vite](https://vitejs.dev/) - Build tool
 
 ## License
 
